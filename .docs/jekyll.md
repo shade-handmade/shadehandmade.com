@@ -28,6 +28,8 @@ bundle exec jekyll new . --force
 
 ## Jekyll testing
 
+Use the makefile
+
 
 [1]:  https://jekyllrb.com/docs/github-pages/
 [2]:  https://pages.github.com/versions/
