@@ -41,8 +41,7 @@
 			<h2>Shade Handmade</h2>
 		</header>
 		<p>
-			Fine furniture and woodwork<br />
-			handmade in America's heartland since 2018
+			{% include snippet.html name="slogan.md" %}
 		</p>
 		<footer>
 			<ul class="buttons stacked">
@@ -60,11 +59,8 @@
 	<header class="special container">
 		<span class="icon solid fa-toolbox"></span>
 		<h2>Shade Handmade</h2>
-		<!-- <p>Fine furniture and woodwork<br />
-			handmade in America's heartland since 2018
-		</p> -->
 		<p>
-		{% include_relative summary.md %}
+			{% include snippet.html name="summary.md" %}
 		</p>
 	</header>
 
@@ -106,10 +102,7 @@
 
 					<section>
 						<span class="icon solid featured fa-check"></span>
-						<header>
-							<h3>This is Something</h3>
-						</header>
-						<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
+						{% include snippet.html name="values1.md" %}
 					</section>
 
 				</div>
@@ -117,10 +110,7 @@
 
 					<section>
 						<span class="icon solid featured fa-check"></span>
-						<header>
-							<h3>Also Something</h3>
-						</header>
-						<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
+						{% include snippet.html name="values2.md" %}
 					</section>
 
 				</div>
@@ -128,10 +118,7 @@
 
 					<section>
 						<span class="icon solid featured fa-check"></span>
-						<header>
-							<h3>Probably Something</h3>
-						</header>
-						<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
+						{% include snippet.html name="values3.md" %}
 					</section>
 
 				</div>

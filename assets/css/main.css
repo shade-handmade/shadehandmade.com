@@ -1970,6 +1970,15 @@ input, select, textarea {
 					background: #e1b89b;
 				}
 
+			.icon.circle.fa-instagram {
+				background: #d62976;
+				color: #fff;
+			}
+
+				.icon.circle.fa-instagram:hover {
+					background: #e63986;
+				}
+
 			.icon.circle.fa-dribbble {
 				background: #da83ae;
 				color: #fff;
