@@ -1,30 +1,4 @@
-<!-- Header -->
-<header id="header" class="alt">
-	<h1 id="logo"><a href="index.html">Shade Handmade</a></h1>
-	<nav id="nav">
-		<ul>
-			<li class="submenu">
-				<a href="#" class="button primary">Contact</a>
-				<ul>
-					<li><a href="mailto:Shade.HandmadeLLC@gmail.com?subject=Question via website">Contact with questions</a></li>
-					<li><a href="https://drive.google.com/open?id=1s23myxE-ffkwmeHXwWDMppZfUh8ED5eFqobS98RVoEM">Contact for orders</a></li>
-					<!--
-					<li class="submenu">
-						<a href="#">Furniture</a>
-						<ul>
-							<li><a href="#">Tables</a></li>
-							<li><a href="#">Chairs</a></li>
-							<li><a href="#">Stools</a></li>
-						</ul>
-					</li>
-					<li><a href="index.html">More to come!</a></li>
-					-->
-				</ul>
-			</li>
-			<!-- <li><a href="#" class="button primary">Contact for orders</a></li> -->
-		</ul>
-	</nav>
-</header>
+{% include header.html %}
 
 <!-- Banner -->
 <section id="banner">
@@ -38,7 +12,11 @@
 	<div class="inner">
 
 		<header>
-			<h2>Shade Handmade</h2>
+			<h2>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<img src="/assets/images/white-logo.png" alt="Shade Handmade"/>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			</h2>
 		</header>
 		<p>
 			{% include snippet.html name="slogan.md" %}
@@ -219,13 +197,13 @@
 		<li><a href="#" class="icon brands circle fa-dribbble"><span class="label">Dribbble</span></a></li>
 		-->
 
-		<li><a href="#" class="icon brands circle fa-facebook-f"><span class="label">Facebook</span></a></li>
-		<li><a href="#" class="icon brands circle fa-instagram"><span class="label">Instagram</span></a></li>
-		<li><a href="#" class="icon brands circle fa-github"><span class="label">Github</span></a></li>
+		<li><a href="https://www.instagram.com/shade_handmade/" target="_new" class="icon brands circle fa-instagram"><span class="label">Instagram</span></a></li>
+		<li><a href="https://github.com/shadehandmade/shadehandmade.github.io" target="_new" class="icon brands circle fa-github"><span class="label">Github</span></a></li>
+		<li><a href="feed.xml" target="_new" class="icon circle fas fa-rss"><span class="label">Feed</span></a></li>
 	</ul>
 
 	<ul class="copyright">
-		<li>&copy; Shade Handmade</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+		<li>&copy; Shade Handmade</li><li>Content and Design:<a href="/attribution.html">Attributions</a></li>
 	</ul>
 
 </footer>

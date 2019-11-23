@@ -1,7 +1,8 @@
 <header>
-  <h3>Probably Something</h3>
+  <h3>Quality</h3>
 </header>
 
-Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo
-suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer
-ut fermentum.
+Part of the **beauty** of handmade furniture is the ability for the maker to be
+**closer to the piece**. That means I can ensure every part of the piece exceeds
+my standards for **quality**. Before any creation leaves the shop, I spend time
+inspecting the whole piece for any defects and issues.

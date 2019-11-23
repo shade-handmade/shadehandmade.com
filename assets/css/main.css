@@ -1962,11 +1962,20 @@ input, select, textarea {
 				}
 
 			.icon.circle.fa-github {
-				background: #dcad8b;
+				background: #474441;
 				color: #fff;
 			}
 
 				.icon.circle.fa-github:hover {
+					background: #555351;
+				}
+
+			.icon.circle.fa-rss {
+				background: #dcad8b;
+				color: #fff;
+			}
+
+				.icon.circle.fa-rss:hover {
 					background: #e1b89b;
 				}
 
