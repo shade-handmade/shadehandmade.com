@@ -2,10 +2,9 @@
 layout: post
 title:  "Combining materials: what you should know"
 date:   2019-11-23 10:50:00 -0500
-categories: highlight materials
+categories: featured materials
+image: images/pic01.jpg
 ---
-# Combining materials: what you should know
-
 While wood is a great material in its own right, there are of course many other
 options. Combining wood and other materials is a good way to modernize your
 project, and in some cases, reduce cost. For fine woodwork, there’s really no
@@ -13,6 +12,7 @@ need to use anything stronger than wood for 99% of tasks. Most of the time,
 these elements are added for decoration and a different look. In this article,
 I’ll discuss several of the most common materials that can add to your pieces
 aesthetics and function.
+<!--more-->
 
 ## Metal
 

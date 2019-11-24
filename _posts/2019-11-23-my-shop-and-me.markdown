@@ -1,13 +1,10 @@
 ---
 layout: post
 title:  "My Shop and Me"
-date:   2019-11-23 10:50:00 -0500
-categories: highlight me
+date:   2019-11-23 10:51:00 -0500
+categories: featured me
+image: images/pic02.jpg
 ---
-# My Shop and Me
-
-![my-shop-and-me](/assets/images/posts/my-shop-and-me.png)
-
 My name is Ian, and I craft fine woodwork out of my home in central Ohio. For
 years, my passion has been not only woodwork, but building a business that makes
 it easy for you, the customer, to get the perfect piece of furniture or
@@ -15,6 +12,7 @@ woodwork. I have ample experience using modern large machinery, and vintage
 style hand tools. I have generations of family heritage of makers and creators,
 who worked hard to support their families. Some of the tools I still use today
 were owned by my grandfather and great grandfather.
+<!--more-->
 
 I am partially self taught, although I did learn a great deal from my
 grandfather. I enjoy using power tools to do the bulk of the work, and using my

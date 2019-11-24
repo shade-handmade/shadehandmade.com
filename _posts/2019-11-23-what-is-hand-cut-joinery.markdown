@@ -1,13 +1,10 @@
 ---
 layout: post
 title:  "What is handcut joinery?"
-date:   2019-11-23 10:50:00-0500
-categories: highlight joinery
+date:   2019-11-23 10:52:00-0500
+categories: featured joinery
+image: images/pic03.jpg
 ---
-# What is hand cut joinery?
-
-![joinery](/assets/images/posts/joinery.png)
-
 Joinery is the way two or more pieces of wood are connected. There ase many
 types, both vintage and modern. Typically, the intention of fine joinery in
 woodwork is to provide the strongest possible joint, while also eliminating the
@@ -16,6 +13,7 @@ joints are held in place with glue. Glue is strongest when its used to connect
 “long grain to long grain.” This means a place where the grain runs parallel to
 the surface. Many joints, like the bridle joint shown above, allow ample long
 grain surface area for the glue to adhere, giving it far superior strength.
+<!--more-->
 
 Joints can also be decorative, like dovetails. They allow you to see how the
 different parts are connected, and have a subtle and beautiful look in any
