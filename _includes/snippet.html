@@ -1,2 +1,2 @@
-{% capture content %}{% include _snippets/{{ include.name }} %}{% endcapture %}
-{{ content | markdownify }}
+{% capture snippet_text %}{% include _snippets/{{ include.name }} %}{% endcapture %}
+{{ snippet_text | markdownify }}
