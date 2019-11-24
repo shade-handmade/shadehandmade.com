@@ -1,0 +1,169 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: index
+---
+<header class="special container">
+	<span class="icon solid fa-drafting-compass"></span>
+	<h2>Shade Handmade</h2>
+	<p>
+		{% include snippet.html name="summary.md" %}
+	</p>
+</header>
+
+<!-- One
+	<section class="wrapper style1 container special-alt">
+		<div class="row gtr-50">
+			<div class="col-8 col-12-narrower">
+
+				<header>
+					<h2>I love to handmake <strong>furniture</strong> and <strong>woodwork</strong>.</h2>
+				</header>
+				<p>More detail to come...</p>
+				<footer>
+					<ul class="buttons">
+						<li><a href="#" class="button">Find Out More</a></li>
+					</ul>
+				</footer>
+
+			</div>
+			<div class="col-4 col-12-narrower imp-narrower">
+
+				<ul class="featured-icons">
+					<li><span class="icon solid fa-drafting-compass"><span class="label">Feature 1</span></span></li>
+					<li><span class="icon solid fa-hammer"><span class="label">Feature 2</span></span></li>
+					<li><span class="icon solid fa-screwdriver"><span class="label">Feature 3</span></span></li>
+					<li><span class="icon solid fa-wrench"><span class="label">Feature 4</span></span></li>
+					<li><span class="icon solid fa-toolbox"><span class="label">Feature 5</span></span></li>
+					<li><span class="icon solid fa-brush"><span class="label">Feature 6</span></span></li>
+				</ul>
+
+			</div>
+		</div>
+	</section>
+-->
+
+<!-- Two -->
+	<section class="wrapper style2 container special">
+		<div class="row">
+			<div class="col-4 col-12-narrower">
+
+				<section>
+					<span class="icon solid featured fa-check"></span>
+					{% include snippet.html name="values1.md" %}
+				</section>
+
+			</div>
+			<div class="col-4 col-12-narrower">
+
+				<section>
+					<span class="icon solid featured fa-check"></span>
+					{% include snippet.html name="values2.md" %}
+				</section>
+
+			</div>
+			<div class="col-4 col-12-narrower">
+
+				<section>
+					<span class="icon solid featured fa-check"></span>
+					{% include snippet.html name="values3.md" %}
+				</section>
+
+			</div>
+		</div>
+	</section>
+
+<!-- Three -->
+	<section class="wrapper style3 container special">
+
+		<header class="major">
+			<h2>Check out some of <strong>my posts</strong></h2>
+		</header>
+
+		{% assign posts = site.categories.featured %}
+		{% for post in posts %}
+		  {% assign loopindex = forloop.index | modulo: 2 %}
+  		{% if loopindex == 1 %}
+				<div class="row">
+			{% endif %}
+			<div class="col-6 col-12-narrower">
+				<section>
+					<a href="{{ post.url }}" class="image featured">
+						<img src="{{ post.image }}" alt="{{ post.title }}" />
+					</a>
+					<header>
+						<h3>{{ post.title }}</h3>
+					</header>
+					{% if post.content contains '<!--more-->' %}
+						{{ post.content | split:'<!--more-->' | first }}
+					{% else %}
+						{{ post.excerpt }}
+					{% endif %}
+				</section>
+			</div>
+			{% if loopindex != 1 %}
+				</div>
+			{% endif %}
+		{% endfor %}
+
+<!--
+	<hr />
+
+		<div class="row">
+			<div class="col-6 col-12-narrower">
+
+				<section>
+					<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+					<header>
+						<h3>Let's talk about tools</h3>
+					</header>
+					<p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
+				</section>
+
+			</div>
+			<div class="col-6 col-12-narrower">
+
+				<section>
+					<a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
+					<header>
+						<h3>Dovetail joints are fun</h3>
+					</header>
+					<p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
+				</section>
+
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-6 col-12-narrower">
+
+				<section>
+					<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
+					<header>
+						<h3>Lumber</h3>
+					</header>
+					<p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
+				</section>
+
+			</div>
+			<div class="col-6 col-12-narrower">
+
+				<section>
+					<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
+					<header>
+						<h3>A wine rack</h3>
+					</header>
+					<p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
+				</section>
+
+			</div>
+		</div>
+-->
+
+		<footer class="major">
+			<ul class="buttons">
+				<li><a href="#" class="button">See More</a></li>
+			</ul>
+		</footer>
+
+	</section>

@@ -23,7 +23,7 @@
 		</p>
 		<footer>
 			<ul class="buttons stacked">
-				<li><a href="#main" class="button fit scrolly">Tell Me More</a></li>
+				<li><a href="#main" class="button fit scrolly">Find out more about my creations</a></li>
 			</ul>
 		</footer>
 
@@ -35,7 +35,7 @@
 <article id="main">
 
 	<header class="special container">
-		<span class="icon solid fa-toolbox"></span>
+		<span class="icon solid fa-drafting-compass"></span>
 		<h2>Shade Handmade</h2>
 		<p>
 			{% include snippet.html name="summary.md" %}
@@ -43,7 +43,7 @@
 	</header>
 
 	<!-- One -->
-		<section class="wrapper style2 container special-alt">
+		<section class="wrapper style1 container special-alt">
 			<div class="row gtr-50">
 				<div class="col-8 col-12-narrower">
 
@@ -73,8 +73,9 @@
 			</div>
 		</section>
 
+
 	<!-- Two -->
-		<section class="wrapper style1 container special">
+		<section class="wrapper style2 container special">
 			<div class="row">
 				<div class="col-4 col-12-narrower">
 
@@ -173,13 +174,12 @@
 <section id="cta">
 
 	<header>
-		<h2>Ready for <strong>more</strong>?</h2>
-		<p>Site under construction.</p>
+		<h2>Interested in more?<br />Click below to:</h2>
 	</header>
 	<footer>
 		<ul class="buttons">
-			<li><a href="#" class="button primary">Press me</a></li>
-			<li><a href="#" class="button">Or press me</a></li>
+			<li><a href="{{ site.contact-links.question }}" class="button primary">Contact me</a></li>
+			<li><a href="{{ site.contact-links.order-form }}" class="button primary">Request a custom order</a></li>
 		</ul>
 	</footer>
 
@@ -203,7 +203,7 @@
 	</ul>
 
 	<ul class="copyright">
-		<li>&copy; Shade Handmade</li><li>Content and Design:<a href="/attribution.html">Attributions</a></li>
+		<li>&copy; Shade Handmade</li><li><a href="/attribution.html">Attributions</a></li>
 	</ul>
 
 </footer>
