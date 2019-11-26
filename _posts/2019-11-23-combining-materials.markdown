@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Combining materials: what you should know"
-date:   2019-11-23 10:50:00 -0500
+title:  "Combining materials"
+date:   2019-11-23 10:54:00 -0500
 categories: featured materials
-image: images/pic01.jpg
+image: images/pic04.jpg
 ---
 While wood is a great material in its own right, there are of course many other
 options. Combining wood and other materials is a good way to modernize your

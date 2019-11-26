@@ -3,8 +3,11 @@
 	{% include head.html %}
 	<body class="right-sidebar is-preload">
 		<div id="page-wrapper">
-			{% include header.html %}
+			<header id="header">
+				{% include header.html %}
+			</header>
 			<article id="main">
+				<h1>{{ page.title }}</h1>
 				{{ content }}
 			</article>
 			{% include footer.html %}

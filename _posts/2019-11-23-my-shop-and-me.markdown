@@ -3,7 +3,7 @@ layout: post
 title:  "My Shop and Me"
 date:   2019-11-23 10:51:00 -0500
 categories: featured me
-image: images/pic02.jpg
+image: images/pic01.jpg
 ---
 My name is Ian, and I craft fine woodwork out of my home in central Ohio. For
 years, my passion has been not only woodwork, but building a business that makes

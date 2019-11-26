@@ -81,10 +81,12 @@ layout: index
 			<h2>Check out some of <strong>my posts</strong></h2>
 		</header>
 
-		{% assign posts = site.categories.featured %}
+		<div class="row">
+		{% assign posts = site.categories.featured | sort: 'date' %}
 		{% for post in posts %}
-		  {% assign loopindex = forloop.index | modulo: 2 %}
-  		{% if loopindex == 1 %}
+		  {% assign oddeven = forloop.index | modulo: 2 %}
+  		{% if oddeven == 1 and forloop.index != 1 %}
+				</div>
 				<div class="row">
 			{% endif %}
 			<div class="col-6 col-12-narrower">
@@ -100,12 +102,11 @@ layout: index
 					{% else %}
 						{{ post.excerpt }}
 					{% endif %}
+					<a href="{{ post.url }}">Continue reading...</a>
 				</section>
 			</div>
-			{% if loopindex != 1 %}
-				</div>
-			{% endif %}
 		{% endfor %}
+		</div>
 
 <!--
 	<hr />
@@ -162,7 +163,7 @@ layout: index
 
 		<footer class="major">
 			<ul class="buttons">
-				<li><a href="#" class="button">See More</a></li>
+				<li><a href="#" class="button">Read More</a></li>
 			</ul>
 		</footer>
 
