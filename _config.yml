@@ -40,7 +40,7 @@ author:
   address          : ""
   citystatezip     : "Hilliard, OH 43026"
   email            : "webmaster@shadehandmade.com"
-  instagram        : shade_handmade
+  instagram        : https://www.instagram.com/shade_handmade/
 
 environment: prod
 # google_analytics: UA-78652537-1
@@ -74,6 +74,9 @@ exclude:
   - vendor/ruby/
   - .docs/
   - .templates/
+
+social:
+  instagram: https://www.instagram.com/shade_handmade/
 
 contact-links:
   question: mailto:Shade.HandmadeLLC@gmail.com?subject=Question via website
