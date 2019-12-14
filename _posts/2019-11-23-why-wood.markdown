@@ -1,72 +1,25 @@
 ---
 layout: post
-title:  "Why wood?"
-date:   2019-11-23 10:52:00 -0500
+title: Why wood?
+date: 2019-11-23T15:52:00.000+00:00
 categories: featured materials
 image: images/pic02.jpg
+
 ---
-Oh great. You bought a table made of dead tree. Isn’t there more modern
-materials that would be better? This statement would seem reasonable to some,
-and crazy to others, but I’m going to tell you why in my eyes, wood furniture is
-a great decision.
+     Isn’t there more modern materials that would be better Than wood? I mean, wood furniture has been around for thousands of years, one would think that in that time, humans would have found a superior material for this purpose. Well today, I’m going to tell you why in my eyes, wood furniture is a great decision. 
+
 <!--more-->
 
-First, we need to learn a little more about wood. There are two types of wood,
-hardwood and softwood. Hardwood and softwood are exactly what they sound like:
-hard and soft. There are good reasons to use both for different things. Your
-house or apartment building, for example, is framed with softwood. This allows
-the building to flex and sway a bit without important structural elements
-snapping. It’s also much cheaper to produce. Furniture, however, is better made
-out of hardwood. Although it’s more expensive than the softer stuff, it is more
-rigid and requires much more effort to dent. It typically also has less knots
-and defects that weaken small areas of the timber. Those are perfectly
-acceptable for houses, but could be a fatal structural defect in fine woodwork.
+      First, we need to learn a little more about wood. There are two types of wood, hardwood and softwood. Hardwood and softwood are exactly what they sound like: hard and soft. There are good reasons to use both for different things. Your house or apartment building, for example, is framed with softwood. This allows the building to flex and sway a bit without important structural elements snapping. It’s also much cheaper to produce. Furniture, however, is better made out of hardwood. Although it’s more expensive than the softer stuff, it is more rigid and requires much more effort to dent. It typically also has less knots and defects that weaken small areas of the timber. Those are perfectly acceptable for houses, but could be a fatal structural defect in fine woodwork.
 
-Wood has a growth structure called grain, which runs upwards throughout the
-tree. This enables the tree to bring water and nutrients up to high limbs. Some
-trees, such as oak, have a more “open” grain structure, which means the grain is
-larger, and often more exposed on the surface of the wood. This allows the wood
-to soak up more oil from the finish, and therefore requires more of whatever
-product is used to completely seal the wood. Grain can be straight, curvy,
-twisty, and is unique to every piece.
+      Wood has a growth structure called grain, which runs upwards throughout the tree. This enables the tree to bring water and nutrients up to high limbs. Some trees, such as oak, have a more “open” grain structure, which means the grain is larger, and often more exposed on the surface of the wood. This allows the wood to soak up more oil from the finish, and therefore requires more of whatever product is used to completely seal the wood. Grain can be straight, curvy, twisty, and is unique to every piece.
 
-There are other natural features that grow into the wood in addition to grain,
-which we call “figure.” The most common examples of these are knots, curl, bug
-figure, and sapwood. All these features, in the hands of a skilled craftsman,
-can make a big difference in the outward appearance of a piece. Careful
-selection of grain and figure can add a subtle and beautiful handmade look,
-something a machine just couldn't replicate.
+      There are other natural features that grow into the wood in addition to grain, which we call “figure.” The most common examples of these are knots, curl, bug figure, and sapwood. All these features, in the hands of a skilled craftsman, can make a big difference in the outward appearance of a piece. Careful selection of grain and figure can add a subtle and beautiful handmade look, something a machine just couldn't replicate.
 
-Now, let’s compare solid wood to some common alternatives used in cheap
-furniture. Most cheap furniture is made of a material called particle board, as
-well as MDF, or medium density fiberboard. These are both made using wood chips
-that are ground up into small particles, which are then packed tightly together
-in a sheet. An adhesive is poured onto the sheet, which soaks in and fills all
-the voids between the particles, creating a solid board. This creates a board
-that is semi strong, but still easily broken apart. MDF is stronger than
-particle board, but still not as strong as stable hardwood
+     Now, let’s compare solid wood to some common alternatives used in cheap furniture. Most cheap furniture is made of a material called particle board, as well as MDF, or medium density fiberboard. These are both made using wood chips that are ground up into small particles, which are then packed tightly together in a sheet. An adhesive is poured onto the sheet, which soaks in and fills all the voids between the particles, creating a solid board. This creates a board that is semi strong, but still easily broken apart. MDF is stronger than particle board, but still not as strong as stable hardwood
 
-This manufacturing process allows the sheets to be made very cheaply, but it’s
-also not environmentally friendly. They will typically cut down any tree that’s
-in the logging zone to be ground and used, which prevents some trees from
-growing to maturity and repopulating to their full potential. The adhesive that
-is used to make the boards is also very dangerous and releases toxins into the
-environment, endangering wildlife, the atmosphere, the workers who produce the
-materials, and the workers who cut out the furniture templates.
+       This manufacturing process allows the sheets to be made very cheaply, but it’s also not environmentally friendly. They will typically cut down any tree that’s in the logging zone to be ground and used, which prevents some trees from growing to maturity and repopulating to their full potential. The adhesive that is used to make the boards is also very dangerous and releases toxins into the environment, endangering wildlife, the atmosphere, the workers who produce the materials, and the workers who cut out the furniture templates.
 
-All this said, it must be pointed out that not 100% of wood is ethically sourced
-either. Another distinction that is commonly used is “domestic” and “exotic”
-woods. exotic woods are more rare, and typically more difficult to work with
-than domestic woods. These woods can also, in some cases, carry harmful toxins
-that can be released during milling. Often, they are also subject to
-over-harvesting in remote areas that rely on the trees as a huge portion of
-their ecosystem. This is why there’s been so much controversy in recent years
-about unethical logging that endangers both exotic trees and exotic ecosystems.
+      All this said, it must be pointed out that not 100% of wood is ethically sourced either. Another distinction that is commonly used is “domestic” and “exotic” woods. exotic woods are more rare, and typically more difficult to work with than domestic woods. These woods can also, in some cases, carry harmful toxins that can be released during milling. Often, they are also subject to over-harvesting in remote areas that rely on the trees as a huge portion of their ecosystem. This is why there’s been so much controversy in recent years about unethical logging that endangers both exotic trees and exotic ecosystems.
 
-That’s why I prefer to use domestic hardwoods as much as possible. These are
-(generally) woods that grow within the United States, and most of the different
-species are prevalent, ethically logged, and subject to protective laws that
-prevent harmful logging practices. If I do use an exotic species in a project, I
-ensure that I purchase from a source that I trust, and do my best to minimize
-waste.
-
+       That’s why I prefer to use domestic hardwoods as much as possible. These are (generally) woods that grow within the United States, and most of the different species are prevalent, ethically logged, and subject to protective laws that prevent harmful logging practices. If I do use an exotic species in a project, I ensure that I purchase from a source that I trust, and do my best to minimize waste.
