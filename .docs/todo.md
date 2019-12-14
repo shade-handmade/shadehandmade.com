@@ -1,10 +1,10 @@
 # todos
 
-## ian
+## Client meeting
 
-- [ ] Green contrast, hard to read
-- [ ] Fix up pages (blog post)
-- [ ] Indents
+- [ ] Fix up pages (blog post), Indents
+- [ ] Add real gallery
+- [x] Green contrast, hard to read
 - [x] Change CARE and DETAIL to natural
 - [x] remove READ MORE
 - [x] RSS icon
