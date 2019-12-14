@@ -6,12 +6,7 @@ categories: featured me
 image: images/pic01.jpg
 
 ---
-My name is Ian, and I craft fine woodwork out of my home in central Ohio. For
-years, my passion has been not only woodwork, but building a business that makes
-it easy for you, the customer, to get the perfect piece of furniture or
-woodwork. 
-
-<!--more-->
+My name is Ian, and I craft fine woodwork out of my home in central Ohio. For years, my passion has been not only woodwork, but building a business that makes it easy for you, the customer, to get the perfect piece of furniture or woodwork.<!--more-->
 
 I have ample experience using modern large machinery, and vintage style hand tools. I have generations of family heritage of makers and creators, who worked hard to support their families. Some of the tools I still use today were owned by my grandfather and great grandfather.
 
