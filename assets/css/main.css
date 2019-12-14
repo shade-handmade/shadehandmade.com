@@ -1823,7 +1823,7 @@ input, select, textarea {
 		input[type="password"]:focus,
 		input[type="email"]:focus,
 		textarea:focus {
-			border-color: #83d3c9;
+			border-color: #53a39a;
 		}
 
 	input[type="text"],
@@ -2196,8 +2196,8 @@ input, select, textarea {
 		input[type="reset"].primary,
 		button.primary,
 		.button.primary {
-			background: #83d3c9;
-			border-color: #83d3c9;
+			background: #53a39a;
+			border-color: #53a39a;
 			color: #fff !important;
 		}
 
@@ -2240,7 +2240,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #83d3c9;
+			background-color: #53a39a;
 			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
@@ -2263,7 +2263,7 @@ input, select, textarea {
 			.wrapper.style2 .button.primary {
 				background: #fff;
 				border-color: #fff;
-				color: #83d3c9 !important;
+				color: #53a39a !important;
 			}
 
 				.wrapper.style2 input[type="button"].primary:hover,
@@ -2502,7 +2502,7 @@ input, select, textarea {
 			}
 
 			.dropotron > li:hover > a {
-				background: #83d3c9;
+				background: #53a39a;
 				color: #fff;
 			}
 
