@@ -1,5 +1,5 @@
 <header>
-  <h3>Care and Detail</h3>
+  <h3>Natural</h3>
 </header>
 
 I use simple, safe, and strong finishes. Chemical finishes contain airborne
