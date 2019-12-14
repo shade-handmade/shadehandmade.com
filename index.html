@@ -99,6 +99,7 @@ layout: index
 					</header>
 					{% if post.content contains '<!--more-->' %}
 						{{ post.content | split:'<!--more-->' | first }}
+						<br />
 					{% else %}
 						{{ post.excerpt }}
 					{% endif %}
@@ -163,7 +164,7 @@ layout: index
 
 		<footer class="major">
 			<ul class="buttons">
-				<li><a href="#" class="button">Read More</a></li>
+				<li><a href="{{ site.social.instagram }}" class="button">View my photo gallery</a></li>
 			</ul>
 		</footer>
 
