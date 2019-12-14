@@ -1,5 +1,16 @@
 # todos
 
+## ian
+
+- [ ] Green contrast, hard to read
+- [ ] Fix up pages (blog post)
+- [ ] Indents
+- [x] Change CARE and DETAIL to natural
+- [x] remove READ MORE
+- [x] RSS icon
+- [x] Remove social icons
+- [x] Still need gallery
+
 ## next up
 
 - [ ] split up site template
